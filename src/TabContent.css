@@ -1,0 +1,64 @@
+/* TabContent.css */
+
+.tab-content {
+    background-color: #fff; /* Fond blanc */
+    padding: 20px;
+  }
+  
+  .tab-content-item {
+    text-align: left; /* Alignement à gauche */
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start; /* Alignement du contenu à gauche */
+  }
+  
+  .vision-title {
+    font-size: 40px; /* Taille de police pour le titre */
+    margin-bottom: 10px; /* Marge en bas pour séparer du contenu */
+    text-align: left; /* Alignement du titre à gauche */
+    align-self: flex-start; /* Alignement du titre à gauche */
+  }
+  
+  .Engagement-title {
+    font-size: 40px; /* Taille de police pour le titre */
+    margin-bottom: 10px; /* Marge en bas pour séparer du contenu */
+    text-align: left; /* Alignement du titre à gauche */
+    align-self: flex-start; /* Alignement du titre à gauche */
+  }
+
+  .Mission-title {
+    font-size: 40px; /* Taille de police pour le titre */
+    margin-bottom: 10px; /* Marge en bas pour séparer du contenu */
+    text-align: left; /* Alignement du titre à gauche */
+    align-self: flex-start; /* Alignement du titre à gauche */
+}
+
+  .Expertise-title {
+    font-size: 40px; /* Taille de police pour le titre */
+    margin-bottom: 10px; /* Marge en bas pour séparer du contenu */
+    text-align: left; /* Alignement du titre à gauche */
+    align-self: flex-start; /* Alignement du titre à gauche */
+}
+
+
+.APEGG-title {
+  font-size: 70px; /* Taille de police pour le titre */
+  margin-bottom: 20px; /* Marge en bas pour séparer du contenu */
+  text-align: left; /* Alignement du titre à gauche */
+  align-self: flex-start; /* Alignement du titre à gauche */
+}
+
+
+
+  .tab-content-item  {
+    font-size: 30px; /* Taille de police pour le contenu */
+  }
+
+
+/* Styles spécifiques pour le contenu de l'onglet APEGG */
+.apegg-message {
+    font-family: "Arial", sans-serif; /* Police spécifique */
+    font-size: 40px; /* Taille de police spécifique */
+    font-weight: bold; /* Texte en gras */
+    /* Autres styles si nécessaire */
+  }

@@ -1,0 +1,12 @@
+/* components/Navbar.css */
+a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 10px 15px;
+    border-radius: 5px;
+    line-height: 40px; /* Hauteur du texte */
+    font-size: 16px; /* Taille de la police */
+    text-align: center; /* Centrage du texte */
+  }
+  
