@@ -41,7 +41,7 @@ function TabContent({ activeTab }) {
                         <br/>
                         <strong>Biotechnologie</strong>
                         <br/>
-                        Dans le domaine de la santé, nous fournissons des solutions innovantes basées sur les données pour améliorer les soins de santé, optimiser les processus cliniques et promouvoir le bien-être des patients et des professionnels de la santé.
+                        Dans le domaine de la biotechnologie, nous nous engageons à promouvoir le développement des procédés durables, tels que la production de biocarburants, la bioconversion des déchets en produits utiles, ou encore la conception de cultures résistantes aux conditions environnementales difficiles.
                         <br/>
                         <br/>
                         <strong>Environnement</strong>
